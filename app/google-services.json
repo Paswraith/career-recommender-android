@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "439291241544",
+    "project_id": "careerrecommender-59702",
+    "storage_bucket": "careerrecommender-59702.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439291241544:android:7d3efe771b6e0031fce47d",
+        "android_client_info": {
+          "package_name": "com.example.careerrecommender1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439291241544-vgnjrhv9c5tfq9jl3k0p8hi3v57vr5s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.careerrecommender1",
+            "certificate_hash": "f48660b73728abb894e68eac1dbb2853f7b8fc0b"
+          }
+        },
+        {
+          "client_id": "439291241544-hkomjps6bsr66g6u2k2hdg1vhvfv47fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSf9XYseqSuS6BY98fYRJwMhy7A3tZVsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439291241544-hkomjps6bsr66g6u2k2hdg1vhvfv47fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
